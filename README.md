@@ -1,6 +1,5 @@
 # sample-bank
 
-simple accounts system:
 ![diagrams](https://user-images.githubusercontent.com/48136939/204160632-5e9bff50-f085-413d-bd9f-0092777dc75c.jpg)
 
 to start an application:
